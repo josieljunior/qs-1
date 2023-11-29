@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'trinagulo'
+require_relative 'triangulo'
 
 RSpec.describe 'Testes para funções de triângulo' do
   describe '#eh_triangulo' do
